@@ -37,7 +37,7 @@ Work experience
     * Collaborated with students in one Kaggle competition and increase the prediction rate from 83% to 90% via an NLP model. Finally, we got No.4 among the total 50 teams
     * Helped students build their research design and make their research project move forward
 
-* Guizhou Berkeley Big Data Innovation Research Center, Berkeley, CA
+* Guizhou Berkeley Big Data Innovation Research Center, Berkeley, CA <br>
   Research Associate/Data Scientist   09/2017 – 07/2018
     * Conducted literature reviews about left-behind children and aging service in China for Professor Susan Stone and Professor Andrew Scharlach; helped prepare reports and presentations
     * Cleaned and analyzed government data from four departments in Guiyang via R and Python as a coder supervisor, wrangling over 1 million individuals’ information linked through 200+ tables
