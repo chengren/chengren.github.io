@@ -13,7 +13,7 @@ name                     : "Cheng Ren"
 description              : "PhD student at UC Berkeley<br>Data Scientist for Social Goods"
 url                      : https://chengren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chengren/chengren.github.io"
+repository               : "https://chengren.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
