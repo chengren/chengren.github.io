@@ -10,6 +10,6 @@ Here are some projects that I have got involved in. It varies from research desi
 
 ![](npo.png)
 
-## Social Support and Students' Suspension [[Abstract](project2.md)]
+## Social Support and Students' Suspension [[Abstract](projects2.md)]
 
 ![](pb245.png)
