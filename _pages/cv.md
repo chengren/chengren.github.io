@@ -7,53 +7,48 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Click [here](REN_CHENG_CV_DSG.pdf) to download the CV for detail .
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. student in Social Welfare | 08/2018-present
+  Designated Emphasis in Computational and Data Science and Engineering
+  University of California at Berkeley, Berkeley, CA 
+  Departmental fellowship award
+  GPA 3.91/4.0
+  Applied Data Science Certificate (in progress)
+  Data Scientist with R Track Certificate (Datacamp, 04/2019)
+
+* Master of Science in Social Administration | 09/2015 - 05/2017
+  Case Western Reserve University, Cleveland, OH 
+  GPA 3.53/4.0
+
+* Bachelor of Arts in Communication | 09/2011 - 06/2015
+  Shanxi University, Shanxi, China 
+  GPA 85/100 & Rank 8/41
+  Outstanding Graduates, Second/Third Prize and Excellent Student Scholarship Award
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* D(Data)-Lab, Berkeley, CA
+  Data Science Consultant 10/2019 – present 
+    * Provided consulting service for the students with **R, Python, geographic information system (GIS) and machine learning** questions at University of California, Berkeley
+    * Collaborated with students in one Kaggle competition and increase the prediction rate from 83% to 90% via an NLP model. Finally, we got No.4 among the total 50 teams
+    * Helped students build their research design and make their research project move forward
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Guizhou Berkeley Big Data Innovation Research Center, Berkeley, CA
+  Research Associate/Data Scientist   09/2017 – 07/2018
+    * Conducted literature reviews about left-behind children and aging service in China for Professor Susan Stone and Professor Andrew Scharlach; helped prepare reports and presentations
+    * Cleaned and analyzed government data from four departments in Guiyang via R and Python as a coder supervisor, wrangling over 1 million individuals’ information linked through 200+ tables
+    * Assisted Guiyang city government establish rules for collecting data and building datasets
+    * Provided consultation on how to apply data science to social goods and related policies
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming skills in Python, R, and proficient with Microsoft Office.
+* Familiar with Machine Learning (Cluster Analysis, Decision Tree), Deep Learning (Neural Network (Kears, Tensorflow)) and **Natural Language Processing (Word2Vec, RNN)**
+* Experience in HTML, SPSS, C++, STATA and **ArcGIS**. 
+* Native in Mandarin and fluent in English.
+* Enjoy photography and familiar with Finalcut, Photoshop and Lightroom 
