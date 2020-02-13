@@ -17,8 +17,8 @@ repository               : "chengren/chengren.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+#future                   : true
+#read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,11 +83,11 @@ author:
   name             : "Cheng Ren"
   avatar           : "profile.png"
   bio              : "PhD student at UC Berkeley<br>Data Scientist for Social Goods"
-  location         : "Berkeley,CA"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HqZ6tL4AAAAJ&hl=en"
-  email            :
+  email            : "cheng.ren@berkley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/chengren"
+  github           : "chengren"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/cheng-ren-48283491/"
+  linkedin         : "cheng-ren"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
