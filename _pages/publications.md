@@ -21,7 +21,7 @@ Behind Children Welfare Policy Supported by Big Data](http://kns.cnki.net/kcms/d
 
 ## Working papers 
 
-1. [[Trends in Non-Profit Sectors: A Predictive Analysis of Agency Longevity in the US](https://sswr.confex.com/sswr/2020/webprogram/Paper38964.html]) (with Brenda Mathias,Julian Chow and Yuwen Lyu)
+1. [[Trends in Non-Profit Sectors: A Predictive Analysis of Agency Longevity in the US](https://sswr.confex.com/sswr/2020/webprogram/Paper38964.html])] (with Brenda Mathias,Julian Chow and Yuwen Lyu)
 
 
 
