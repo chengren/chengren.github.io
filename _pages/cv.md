@@ -15,9 +15,9 @@ Education
   Designated Emphasis in Computational and Data Science and Engineering<br>
   University of California at Berkeley, Berkeley, CA <br>
   Departmental fellowship award<br>
-  GPA 3.91/4.0<br>
+  GPA 3.93/4.0<br>
   Applied Data Science Certificate (in progress)<br>
-  Data Scientist with R Track Certificate (Datacamp, 04/2019)<br>
+  Data Scientist with R/Python Track Certificate (Datacamp, 04/2019)<br>
 
 * Master of Science in Social Administration | 09/2015 - 05/2017<br>
   Case Western Reserve University, Cleveland, OH <br>
