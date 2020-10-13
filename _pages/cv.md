@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Click [here](REN_CHENG_CV_DSG.pdf) to download the CV for detail .
+Click [here](REN_CHENG_CV_GSI.pdf) to download the CV for detail .
 
 Education
 ======
@@ -15,8 +15,8 @@ Education
   Designated Emphasis in Computational and Data Science and Engineering<br>
   University of California at Berkeley, Berkeley, CA <br>
   Departmental fellowship award<br>
-  GPA 3.93/4.0<br>
-  Applied Data Science Certificate (in progress)<br>
+  GPA 3.94/4.0<br>
+  Applied Data Science Certificate <br>
   Data Scientist with R/Python Track Certificate (Datacamp, 04/2019)<br>
 
 * Master of Science in Social Administration | 09/2015 - 05/2017<br>
