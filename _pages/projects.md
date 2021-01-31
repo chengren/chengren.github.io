@@ -6,7 +6,7 @@ author_profile: true
 
 Here are some projects that I have got involved in. It varies from research design to data analysis, and visualization. Although topics in these projects may different, the core idea is that applying computional skills for social goods. Meanwhile, in most situations, these skills and menthods can be transferred to new fields easily.
 
-## How Nonprofits React to Economic Downturn Recession? , [[pdf version](SSWR.pdf)]
+## How Nonprofits React to Economic Downturn Recession? [[pdf version](SSWR.pdf)]
 ![](sswr_git.png)
 
 ## Health Clinics, Hospitals, and COVID-19 [[Link](https://shiny.demog.berkeley.edu/bimi/immigrantsatrisk_covid19map)]
